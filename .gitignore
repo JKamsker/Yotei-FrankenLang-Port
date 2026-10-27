@@ -1,0 +1,16 @@
+# Never commit game data or build output
+*.xpps
+*.larc
+*.bin
+*.prx
+*.sprx
+*.pkg
+*.ffpkg
+*.exfat
+manifest.json
+out/
+PPSA*/
+
+__pycache__/
+*.pyc
+.venv/
